@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Science & Environment]]></description>
+        <link>https://www.bbc.co.uk/news/science_and_environment</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/science_and_environment</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 11 Apr 2024 09:23:48 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Forever chemicals' limited in US tap water]]></title>
+            <description><![CDATA[Officials finalise a new federal rule for drinking water - designed to protect people from toxic substances.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68671731</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68671731#0</guid>
+            <pubDate>Wed, 10 Apr 2024 14:44:57 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3571/production/_133118631_gettyimages-1445381865.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peter Higgs - the man who changed our view of the Universe]]></title>
+            <description><![CDATA[The renowned scientist came up with revolutionary ideas in the 1960s, sparking a 50-year search for evidence.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68774853</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68774853#0</guid>
+            <pubDate>Tue, 09 Apr 2024 20:17:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3AB7/production/_133113051_7a5590f26de513a659f17afe69b8100f1c73aa7f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parched and shrinking - vital Moroccan dam dries up]]></title>
+            <description><![CDATA[Satellite images reveal the impact of the long drought on one of the country's main water sources.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-68665826</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-68665826#0</guid>
+            <pubDate>Wed, 10 Apr 2024 00:31:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/148A3/production/_133113148_index-pic_dam.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Was an extinct fox once man's best friend?]]></title>
+            <description><![CDATA[Our ancestors may have kept foxes as pets long before domestic dogs, archaeological evidence suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68772835</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68772835#0</guid>
+            <pubDate>Tue, 09 Apr 2024 23:29:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/D747/production/_133111155_southamericangreyfoxgettyimages-124772021.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Record hot March sparks 'uncharted territory' fear]]></title>
+            <description><![CDATA[Monthly hot streak continues in March with scientists struggling to explain the scale of recent heating.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68665166</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68665166#0</guid>
+            <pubDate>Tue, 09 Apr 2024 02:00:06 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4A74/production/_133106091_india_1_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First ever climate change victory in Europe court]]></title>
+            <description><![CDATA["We are not made to sit in a rocking chair and knit," said one of the older Swiss women who won.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68768598</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68768598#0</guid>
+            <pubDate>Tue, 09 Apr 2024 16:24:42 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5461/production/_133110612_climate_seniors_2_epa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fears opencast mine could become dangerous lake]]></title>
+            <description><![CDATA[Locals say they have "grave concerns" over rising water levels at the Ffos-y-Fran opencast site.]]></description>
+            <link>https://www.bbc.com/news/articles/c51jn77rkkko</link>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/c51jn77rkkko#0</guid>
+            <pubDate>Tue, 09 Apr 2024 05:31:05 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/news/240/cpsprodpb/ba4c/live/62519200-f281-11ee-b6f1-d3fc952ed49e.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Together in wonder: North America awed by total solar eclipse]]></title>
+            <description><![CDATA[Stunning spectacle is witnessed by millions across the continent. Here are some of the stories.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-68766846</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-68766846#2</guid>
+            <pubDate>Mon, 08 Apr 2024 23:04:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183BC/production/_133106299_image.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hottest February marks ninth new monthly record]]></title>
+            <description><![CDATA[It's the ninth month of global temperature records in a row, driven by climate change and El Niño.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68428348</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68428348#2</guid>
+            <pubDate>Thu, 07 Mar 2024 03:06:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13B3/production/_132834050_gettyimages-2038207474.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK quits treaty that lets oil firms sue government]]></title>
+            <description><![CDATA[The ECT allowed fossil-fuel companies to sue governments for billions in compensation for lost profits.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68369916</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68369916#2</guid>
+            <pubDate>Thu, 22 Feb 2024 12:34:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107C/production/_124402240_rig.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why firms are racing to produce green ammonia]]></title>
+            <description><![CDATA[Ammonia is essential for fertiliser production but producing it is carbon intensive.]]></description>
+            <link>https://www.bbc.co.uk/news/business-68230697</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-68230697#2</guid>
+            <pubDate>Tue, 27 Feb 2024 00:04:21 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16471/production/_132594219_gettyimages-1224184200.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World breaches 1.5C warming threshold for full year]]></title>
+            <description><![CDATA[The last 12 months were the hottest on record, temporarily sending the world past a deeply symbolic mark.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68110310</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68110310#2</guid>
+            <pubDate>Thu, 08 Feb 2024 10:18:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/FED7/production/_132593256_chile-index-afp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[White House wants Moon to have its own time zone]]></title>
+            <description><![CDATA[The US government has asked Nasa to develop a way to keep track of time on the Moon.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68722032</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68722032#3</guid>
+            <pubDate>Wed, 03 Apr 2024 11:23:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1574E/production/_133068878_moonpic_1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One woman’s battle to push Africa’s space race]]></title>
+            <description><![CDATA[Scientist Marie Makuate wants more African countries to have their own satellites orbiting Earth.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-68714740</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-68714740#3</guid>
+            <pubDate>Sun, 07 Apr 2024 01:24:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/EB60/production/_133065206_scientist.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk's Starship goes 'farther than ever']]></title>
+            <description><![CDATA[The world's most powerful rocket makes a huge leap in progress in its third test flight.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68547482</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68547482#3</guid>
+            <pubDate>Thu, 14 Mar 2024 16:17:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/C9D8/production/_132927615_f8136fee63b0a6b682ee0ff46156d31b569c26fd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK firm's 4K video cameras head to space station]]></title>
+            <description><![CDATA[London company SEN's ultra high-definition cameras intend to stream spectacular views of Earth.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68579681</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68579681#3</guid>
+            <pubDate>Thu, 21 Mar 2024 22:52:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10B5B/production/_132934486_namibia.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[University proud of space station astronaut]]></title>
+            <description><![CDATA[Dr Mike Barratt, who teaches in Devon, is pilot of the mission to the International Space Station.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-68485206</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-68485206#3</guid>
+            <pubDate>Wed, 06 Mar 2024 14:07:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14CDD/production/_132831258_1ccdd73fec62df04605767dc05251531f9c9d577.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Ice bumps' reveal history of Antarctic melting]]></title>
+            <description><![CDATA[Satellites reveal a 50-year record of climate change by tracing the lumpiness in ice surfaces.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-68406880</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-68406880#3</guid>
+            <pubDate>Tue, 27 Feb 2024 00:25:33 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7CFB/production/_109959913_p07wl82h.jpg"/>
+        </item>
+    </channel>
+</rss>
